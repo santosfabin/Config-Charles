@@ -19,7 +19,7 @@
     - Então vamos alterar um valor para que ele utilize mais memória.
     - Com qualquer editor, edite esta linha para um valor que você deseje de memória.
         
-        ![Untitled](Configurando%20o%20Charles8/Untitled%201.png)
+        ![Untitled](Configurando%20o%20Charles/Untitled%201.png)
         
 - Proxy no navegador
     - Em "Proxy" no canto superior esquerdo, vá até a opção "Proxy Settings...".
